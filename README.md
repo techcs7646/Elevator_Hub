@@ -1,1 +1,1 @@
-# This is Elevatar Hub project
+# Elevatar Hub project
