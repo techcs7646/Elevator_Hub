@@ -1,1 +1,0 @@
-# Elevatar Hub project
